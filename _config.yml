@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Assistant Professor\ School of Mathematics and Natural Sciences\ University of Southern Mississippi\ 118 College Drive\ Hattiesburg, MS 39406"
-  location         : "Location"
+  bio              : "Assistant Professor, USM"
+  location         : "Hattiesburg, MS"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
